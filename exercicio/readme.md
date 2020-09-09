@@ -22,3 +22,5 @@ import pandas as pd
 df = pd.read_sql_query("select * from person", cnx)
 df
 ```
+
+## 2) Abrir os dados disponibilizados pela termica usando Pandas
